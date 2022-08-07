@@ -1,0 +1,10 @@
+.navbar {
+    background-color: red;
+    display: flex;
+    padding: 20px;
+}
+
+.nav-title {
+    margin: auto;
+    text-align: center;
+}
