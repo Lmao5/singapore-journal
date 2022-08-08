@@ -5,7 +5,9 @@ import "./Card.css";
 function Card({item}) {
   return (
     <div className="card">
-      <img src={item.image} className="card-image" alt={item.image_alt}/>
+      <a href={item.image_source} target={"_blank"} rel="noreferrer">
+        <img src={item.image} className="card-image" alt={item.image_alt}/>
+        </a>
       <div className="card-body">
         <span className="card-location">
           <GeoAlt/> {item.location} &nbsp;

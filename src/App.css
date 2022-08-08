@@ -1,3 +1,17 @@
-.card-list {
-    margin: 50px 200px 50px 200px;
+@media (min-width:600px) {
+    .card-list {
+        margin: 20px;
+    }
+}
+
+@media (min-width:1025px) {
+    .card-list {
+        margin: 20px;
+    }
+}
+
+@media (min-width: 1281px){
+    .card-list {
+        margin: 50px 250px 50px 250px;
+    }   
 }
