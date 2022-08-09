@@ -8,6 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 I created this project to practice using props and mapping data in React. This part of the [Scrimba Course on Learning React](https://scrimba.com/learn/learnreact).
 
+## Image Source
+
+All images used in this project can be found on [Unsplash](https://unsplash.com/) which can be used freely.
+
 ## License
 
 [MIT License](https://github.com/Lmao5/singapore-journal/blob/main/LICENSE)
