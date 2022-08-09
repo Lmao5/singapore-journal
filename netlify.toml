@@ -1,0 +1,4 @@
+# Basic Redirect
+[[redirects]]
+  from = "/*"
+  to = "/"
